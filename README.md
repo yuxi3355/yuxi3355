@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--<a href="https://0.0.0.0/">Personal Page</a>&nbsp;•&nbsp;-->
-<a href="https://0.0.0.0/">Blog</a>&nbsp;•&nbsp;
+<a href="https://0.0.0.0/">MyBlog</a>&nbsp;•&nbsp;
 <a href="https://0.0.0.0/">sysBate</a>&nbsp;•&nbsp;
 <a href="https://0.0.0.0/">Sharepoint</a>&nbsp;•&nbsp;
 <a href="https://github.com/yuxi3355">GitHub</a>&nbsp;
